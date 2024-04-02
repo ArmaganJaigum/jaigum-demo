@@ -1,4 +1,5 @@
 # jaigum-demo
 This is my first Git Repository
 <br>
-Author - Armagan Jaigum
+Author - Armagan Jaigum Mohammad
+
